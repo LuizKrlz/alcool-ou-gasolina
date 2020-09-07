@@ -16,3 +16,5 @@
 Images
 
 <img src="print1.png" alt="Captura 1"/>
+<img src="print2.png" alt="Captura 2" />
+<img src="print3.png" alt="Captura 3" />
